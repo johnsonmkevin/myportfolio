@@ -15,12 +15,11 @@ const About = () => {
 					</div>
 					<div className={styles.text}>
 						<p>
-							Hello, my name is Kevin. I am a junior front end developer. I am currently studying at Hyper Island in
-							Stockholm, Sweden. I am a former psychology counselor with a passion for learning and developing my skills
-							with web development. I have started my journey in web development in 2022. I enjoy learning and being a
-							part of a team. I am currently the student representative in my class for both semesters and played a role
-							in shaping the curriculum for the next group of rising talents. I am looking forward to sharping my skills
-							and bringing the best not only for myself but also for others around me.
+							I am a junior frontend developer currently studying at Hyper Island Stockholm. With a background in
+							psychology counseling, I have a strong passion for learning and developing my web development skills. I
+							began my journey in web development in 2022 and enjoy being part of a team. As the student representative
+							in my class for both semesters, I actively contributed to shaping the curriculum for upcoming students. I
+							am committed to sharpening my skills and making a positive impact on those around me.
 						</p>
 					</div>
 				</div>

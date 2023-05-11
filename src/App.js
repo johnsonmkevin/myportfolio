@@ -1,5 +1,8 @@
 import React from "react";
 import "./index.css";
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 
 // Components
 import Hero from "./components/Hero/Hero";
@@ -13,16 +16,15 @@ function App() {
 			<section id="home">
 				<Hero />
 			</section>
-
 			<section id="about">
 				<About />
 			</section>
 			<section id="projects">
 				<Projects />
 			</section>
-			<section id="contact">
+			{/* <section id="contact">
 				<Contact />
-			</section>
+			</section> */}
 		</>
 	);
 }
