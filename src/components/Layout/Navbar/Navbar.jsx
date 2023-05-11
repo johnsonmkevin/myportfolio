@@ -8,7 +8,7 @@ const Navbar = () => {
 		<div className={styles.navbar}>
 			<div className={styles.container}>
 				<div className={styles.left}>
-					<a href="#">
+					<a href="#home">
 						<BsCodeSlash />
 					</a>
 				</div>
@@ -23,15 +23,15 @@ const Navbar = () => {
 						<li>
 							<a href="#projects">Projects</a>
 						</li>
-						<li>
+						{/* <li>
 							<a href="#contact">Contact</a>
-						</li>
+						</li> */}
 					</ul>
 					<div className={styles.socials}>
-						<a href="#">
+						<a href="https://github.com/johnsonmkevin" target="_blank" rel="noreferrer">
 							<AiFillGithub />
 						</a>
-						<a href="#">
+						<a href="https://www.linkedin.com/in/kevin-johnson-a7508478/" target="_blank" rel="noreferrer">
 							<AiFillLinkedin />
 						</a>
 					</div>
