@@ -13,6 +13,7 @@ function App() {
 			<section id="home">
 				<Hero />
 			</section>
+
 			<section id="about">
 				<About />
 			</section>
