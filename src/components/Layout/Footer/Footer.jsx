@@ -11,7 +11,7 @@ import {
 import { EmailIcon, FacebookIcon, LinkedinIcon, TwitterIcon, WhatsappIcon } from "react-share";
 
 const Footer = () => {
-	const shareUrl = "localhost:3000"; // TODO: change to actual url
+	const shareUrl = "https://kevinjohnsonportfolio.netlify.app/"; // TODO: change to actual url
 
 	return (
 		<div className={styles.footer}>
