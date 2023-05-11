@@ -7,7 +7,7 @@ export const ProjectsData = [
 		title: "Random Activity - Api project",
 		image: "/images/projects/project1.png",
 		description:
-			"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus vitae dicta nam amet quos deleniti error dolorum fugit similique, id ullam! Alias rerum totam, sint iure vitae minus error quo?",
+			"My first project using an API. I used the an random activity API to fetch random activities. I used HTML, CSS and JavaScript to build this project. I enjoyed building this project and I learned a lot about API's and how to use them.",
 		icons: [<FaHtml5 size={30} key={0} />, <FaCss3Alt size={30} key={1} />, <SiJavascript size={30} key={2} />],
 	},
 	{
@@ -15,7 +15,7 @@ export const ProjectsData = [
 		title: "Pokemon Memory Game - Api project",
 		image: "/images/projects/project2.png",
 		description:
-			"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus vitae dicta nam amet quos deleniti error dolorum fugit similique, id ullam! Alias rerum totam, sint iure vitae minus error quo?",
+			"Used HTML, CSS, and JavaScript to build this project. I used the Pokemon API to fetch the data. I learned a lot about API's and how to use them. I also learned a lot about JavaScript and how to use it to build a game.",
 		icons: [<FaHtml5 size={30} key={0} />, <FaCss3Alt size={30} key={1} />, <SiJavascript size={30} key={2} />],
 	},
 	{
@@ -23,7 +23,7 @@ export const ProjectsData = [
 		title: "Nike Landing Page - React project",
 		image: "/images/projects/project3.png",
 		description:
-			"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus vitae dicta nam amet quos deleniti error dolorum fugit similique, id ullam! Alias rerum totam, sint iure vitae minus error quo?",
+			"My first single page app using React. I used HTML, CSS, and React to build this project. I learned a lot about React and how to use it to build a single page app. I also learned a lot about JavaScript and how to use it to build a single page app.",
 		icons: [<FaReact size={30} key={0} />],
 	},
 ];
