@@ -23,6 +23,13 @@
 	font-weight: 700;
 }
 
+@media (max-width: 640px) {
+	.wrapper h1 {
+		white-space: pre-wrap;
+		text-align: center;
+	}
+}
+
 .wrapper p {
 	font-size: 1.2rem;
 	text-align: center;
