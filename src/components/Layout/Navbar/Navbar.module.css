@@ -27,6 +27,13 @@
 	fill: #000;
 }
 
+@media (max-width: 500px) {
+	.left a svg {
+		display: none;
+	}
+}
+
+
 .right {
 	display: flex;
 	align-items: center;
