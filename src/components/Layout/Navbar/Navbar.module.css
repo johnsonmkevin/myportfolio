@@ -20,6 +20,7 @@
 .left {
 	display: flex;
 	align-items: center;
+	width: fit-content;
 }
 
 .left a svg {
@@ -33,11 +34,10 @@
 	}
 }
 
-
 .right {
 	display: flex;
 	align-items: center;
-	gap: 3rem;
+	gap: 1rem;
 }
 
 .right ul {
