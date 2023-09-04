@@ -7,7 +7,7 @@ export const ProjectsData = [
     title: "Random Activity - Api project",
     image: "/images/projects/project1.png",
     description:
-      "My first project using an API. I used the an random activity API to fetch random activities. I used HTML, CSS, and JavaScript to build this project. I enjoyed building this project and I learned a lot about API's and how to use them.",
+      "My first project using an API. I used the an random activity API to fetch random activities. I used HTML, CSS, and JavaScript to build this project. This was my first introduction to API's and extracting data to present on the browser for the user .",
     icons: [
       <FaHtml5 size={30} key={0} />,
       <FaCss3Alt size={30} key={1} />,
