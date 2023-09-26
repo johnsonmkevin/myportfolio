@@ -1,17 +1,19 @@
-import { FaReact, FaHtml5, FaCss3Alt } from "react-icons/fa";
-import { SiJavascript } from "react-icons/si";
+import { FaCss3Alt, FaHtml5, FaReact } from "react-icons/fa";
+import { SiJavascript, SiRedux } from "react-icons/si";
 
 export const ProjectsData = [
   {
     id: 0,
-    title: "Random Activity - Api project",
-    image: "/images/projects/project1.png",
+    title: "Sneaker Store",
+    image: "/images/projects/sneakerStore.png",
     description:
-      "My first project using an API. I used the an random activity API to fetch random activities. I used HTML, CSS, and JavaScript to build this project. This was my first introduction to API's and extracting data to present on the browser for the user .",
+      "A project using React and Redux Toolkit. A sneaker store where you can add and remove items from your shopping cart.",
     icons: [
       <FaHtml5 size={30} key={0} />,
       <FaCss3Alt size={30} key={1} />,
       <SiJavascript size={30} key={2} />,
+      <FaReact size={30} key={0} />,
+      <SiRedux size={30} key={0} />,
     ],
     link: "https://gregarious-empanada-1946e6.netlify.app/",
   },
